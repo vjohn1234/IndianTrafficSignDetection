@@ -1,0 +1,422 @@
+{
+  "001": {
+    "class_name": "Stop",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "002": {
+    "class_name": "Give_Way",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "003": {
+    "class_name": "No_Entry",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "004": {
+    "class_name": "Priority_for_Oncoming_Traffic",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "005": {
+    "class_name": "All_Motor_Vehicles_Prohibited",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "006": {
+    "class_name": "Truck_Prohibited",
+    "original_images": 8,
+    "augmented_needed": 492,
+    "total_target": 500,
+    "augmentation_factor": "61.5x"
+  },
+  "013": {
+    "class_name": "Right_Turn_Prohibited",
+    "original_images": 9,
+    "augmented_needed": 491,
+    "total_target": 500,
+    "augmentation_factor": "54.6x"
+  },
+  "014": {
+    "class_name": "Left_Turn_Prohibited",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "015": {
+    "class_name": "U_Turn_Prohibited",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "016": {
+    "class_name": "Overtaking_Prohibited",
+    "original_images": 9,
+    "augmented_needed": 491,
+    "total_target": 500,
+    "augmentation_factor": "54.6x"
+  },
+  "017": {
+    "class_name": "Horn_Prohibited",
+    "original_images": 9,
+    "augmented_needed": 491,
+    "total_target": 500,
+    "augmentation_factor": "54.6x"
+  },
+  "023": {
+    "class_name": "Speed_Limit_20",
+    "original_images": 8,
+    "augmented_needed": 492,
+    "total_target": 500,
+    "augmentation_factor": "61.5x"
+  },
+  "024": {
+    "class_name": "No_Parking",
+    "original_images": 8,
+    "augmented_needed": 492,
+    "total_target": 500,
+    "augmentation_factor": "61.5x"
+  },
+  "025": {
+    "class_name": "No_Stopping_or_Standing",
+    "original_images": 8,
+    "augmented_needed": 492,
+    "total_target": 500,
+    "augmentation_factor": "61.5x"
+  },
+  "026": {
+    "class_name": "Compulsory_Turn_Left",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "027": {
+    "class_name": "Compulsory_Turn_Right",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "029": {
+    "class_name": "Compulsory_Turn_Right_Ahead",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "030": {
+    "class_name": "Compulsory_Turn_Left_Ahead",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "031": {
+    "class_name": "Compulsory_Ahead_or_Turn_Right",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "032": {
+    "class_name": "Compulsory_Ahead_or_Turn_Left",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "033": {
+    "class_name": "Compulsory_Keep_Left",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "034": {
+    "class_name": "Compulsory_Cycle_Track",
+    "original_images": 9,
+    "augmented_needed": 491,
+    "total_target": 500,
+    "augmentation_factor": "54.6x"
+  },
+  "035": {
+    "class_name": "Compulsory_Sound_Horn",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "038": {
+    "class_name": "Mandatory_Two_Way_Traffic",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "039": {
+    "class_name": "Speed_Limit_40",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "040": {
+    "class_name": "Pass_Either_Side",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "041": {
+    "class_name": "Speed_Limit_60",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "101": {
+    "class_name": "Right_Hand_Curve",
+    "original_images": 14,
+    "augmented_needed": 486,
+    "total_target": 500,
+    "augmentation_factor": "34.7x"
+  },
+  "102": {
+    "class_name": "Left_Hand_Curve",
+    "original_images": 13,
+    "augmented_needed": 487,
+    "total_target": 500,
+    "augmentation_factor": "37.5x"
+  },
+  "103": {
+    "class_name": "Right_Hair_Pin_Bend",
+    "original_images": 13,
+    "augmented_needed": 487,
+    "total_target": 500,
+    "augmentation_factor": "37.5x"
+  },
+  "104": {
+    "class_name": "Left_Hair_Pin_Bend",
+    "original_images": 15,
+    "augmented_needed": 485,
+    "total_target": 500,
+    "augmentation_factor": "32.3x"
+  },
+  "105": {
+    "class_name": "Right_Reverse_Bend",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "106": {
+    "class_name": "Left_Reverse_Bend",
+    "original_images": 15,
+    "augmented_needed": 485,
+    "total_target": 500,
+    "augmentation_factor": "32.3x"
+  },
+  "107": {
+    "class_name": "Steep_Ascent",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "108": {
+    "class_name": "Steep_Descent",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "109": {
+    "class_name": "Narrow_Road_Ahead",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "111": {
+    "class_name": "Narrow_Bridge",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "112": {
+    "class_name": "Slippery_Road",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "113": {
+    "class_name": "Loose_Gravel",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "114": {
+    "class_name": "Cycle_Crossing",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "115": {
+    "class_name": "Pedestrian_Crossing",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "116": {
+    "class_name": "School_Ahead",
+    "original_images": 9,
+    "augmented_needed": 491,
+    "total_target": 500,
+    "augmentation_factor": "54.6x"
+  },
+  "118": {
+    "class_name": "Cattle",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "120": {
+    "class_name": "Falling_Rocks",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "121": {
+    "class_name": "Dangerous_Dip",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "122": {
+    "class_name": "Hump_or_Rough_Road",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "123": {
+    "class_name": "Barrier_Ahead",
+    "original_images": 9,
+    "augmented_needed": 491,
+    "total_target": 500,
+    "augmentation_factor": "54.6x"
+  },
+  "124": {
+    "class_name": "Gap_in_Median",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "125": {
+    "class_name": "Cross_Road",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "126": {
+    "class_name": "Side_Road_Left",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "127": {
+    "class_name": "Side_Road_Right",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "128": {
+    "class_name": "Y_Intersection",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "129": {
+    "class_name": "T_Intersection",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "130": {
+    "class_name": "Staggered_Intersection",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "131": {
+    "class_name": "Round_About",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "132": {
+    "class_name": "Guarded_Level_Crossing",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "133": {
+    "class_name": "Unguarded_Level_Crossing",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  },
+  "135": {
+    "class_name": "Men_at_Work",
+    "original_images": 9,
+    "augmented_needed": 491,
+    "total_target": 500,
+    "augmentation_factor": "54.6x"
+  },
+  "136": {
+    "class_name": "U_Turn_Ahead",
+    "original_images": 9,
+    "augmented_needed": 491,
+    "total_target": 500,
+    "augmentation_factor": "54.6x"
+  },
+  "137": {
+    "class_name": "Merge_Traffic_Ahead",
+    "original_images": 10,
+    "augmented_needed": 490,
+    "total_target": 500,
+    "augmentation_factor": "49.0x"
+  }
+}

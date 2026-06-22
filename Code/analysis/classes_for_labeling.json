@@ -1,0 +1,1026 @@
+{
+  "001": {
+    "class_name": "Stop",
+    "category": "Mandatory",
+    "image_count": 10,
+    "images": [
+      "001_009.jpg",
+      "001_008.jpg",
+      "001_006.jpg",
+      "001_007.jpg",
+      "001_005.jpg",
+      "001_004.jpg",
+      "001_010.jpg",
+      "001_001.jpg",
+      "001_003.jpg",
+      "001_002.jpg"
+    ]
+  },
+  "002": {
+    "class_name": "Give_Way",
+    "category": "Mandatory",
+    "image_count": 10,
+    "images": [
+      "002_009.jpg",
+      "002_008.jpg",
+      "002_005.jpg",
+      "002_004.jpg",
+      "002_010.jpg",
+      "002_006.jpg",
+      "002_007.jpg",
+      "002_003.jpg",
+      "002_002.jpg",
+      "002_001.jpg"
+    ]
+  },
+  "003": {
+    "class_name": "No_Entry",
+    "category": "Mandatory",
+    "image_count": 10,
+    "images": [
+      "003_009.jpg",
+      "003_008.jpg",
+      "003_001.jpg",
+      "003_003.jpg",
+      "003_002.jpg",
+      "003_006.jpg",
+      "003_007.jpg",
+      "003_005.jpg",
+      "003_010.jpg",
+      "003_004.jpg"
+    ]
+  },
+  "004": {
+    "class_name": "Priority_for_Oncoming_Traffic",
+    "category": "Mandatory",
+    "image_count": 10,
+    "images": [
+      "004_002.jpg",
+      "004_003.jpg",
+      "004_001.jpg",
+      "004_010.jpg",
+      "004_004.jpg",
+      "004_005.jpg",
+      "004_007.jpg",
+      "004_006.jpg",
+      "004_008.jpg",
+      "004_009.jpg"
+    ]
+  },
+  "005": {
+    "class_name": "All_Motor_Vehicles_Prohibited",
+    "category": "Mandatory",
+    "image_count": 10,
+    "images": [
+      "005_007.jpg",
+      "005_006.jpg",
+      "005_004.jpg",
+      "005_010.jpg",
+      "005_005.jpg",
+      "005_001.jpg",
+      "005_002.jpg",
+      "005_003.jpg",
+      "005_008.jpg",
+      "005_009.jpg"
+    ]
+  },
+  "006": {
+    "class_name": "Truck_Prohibited",
+    "category": "Mandatory",
+    "image_count": 8,
+    "images": [
+      "006_004.jpg",
+      "006_010.jpg",
+      "006_005.jpg",
+      "006_007.jpg",
+      "006_002.jpg",
+      "006_003.jpg",
+      "006_008.jpg",
+      "006_009.jpg"
+    ]
+  },
+  "013": {
+    "class_name": "Right_Turn_Prohibited",
+    "category": "Mandatory",
+    "image_count": 9,
+    "images": [
+      "013_009.jpg",
+      "013_008.jpg",
+      "013_001.jpg",
+      "013_003.jpg",
+      "013_006.jpg",
+      "013_007.jpg",
+      "013_005.jpg",
+      "013_004.jpg",
+      "013_010.jpg"
+    ]
+  },
+  "014": {
+    "class_name": "Left_Turn_Prohibited",
+    "category": "Mandatory",
+    "image_count": 10,
+    "images": [
+      "014_002.jpg",
+      "014_003.jpg",
+      "014_001.jpg",
+      "014_004.jpg",
+      "014_010.jpg",
+      "014_005.jpg",
+      "014_007.jpg",
+      "014_006.jpg",
+      "014_008.jpg",
+      "014_009.jpg"
+    ]
+  },
+  "015": {
+    "class_name": "U_Turn_Prohibited",
+    "category": "Mandatory",
+    "image_count": 10,
+    "images": [
+      "015_007.jpg",
+      "015_006.jpg",
+      "015_010.jpg",
+      "015_004.jpg",
+      "015_005.jpg",
+      "015_001.jpg",
+      "015_002.jpg",
+      "015_003.jpg",
+      "015_008.jpg",
+      "015_009.jpg"
+    ]
+  },
+  "016": {
+    "class_name": "Overtaking_Prohibited",
+    "category": "Mandatory",
+    "image_count": 9,
+    "images": [
+      "016_010.jpg",
+      "016_004.jpg",
+      "016_005.jpg",
+      "016_007.jpg",
+      "016_006.jpg",
+      "016_003.jpg",
+      "016_001.jpg",
+      "016_008.jpg",
+      "016_009.jpg"
+    ]
+  },
+  "017": {
+    "class_name": "Horn_Prohibited",
+    "category": "Mandatory",
+    "image_count": 9,
+    "images": [
+      "017_001.jpg",
+      "017_002.jpg",
+      "017_003.jpg",
+      "017_007.jpg",
+      "017_006.jpg",
+      "017_004.jpg",
+      "017_010.jpg",
+      "017_005.jpg",
+      "017_009.jpg"
+    ]
+  },
+  "023": {
+    "class_name": "Speed_Limit_20",
+    "category": "Mandatory",
+    "image_count": 8,
+    "images": [
+      "023_005.jpg",
+      "023_004.jpg",
+      "023_010.jpg",
+      "023_003.jpg",
+      "023_002.jpg",
+      "023_001.jpg",
+      "023_009.jpg",
+      "023_008.jpg"
+    ]
+  },
+  "024": {
+    "class_name": "No_Parking",
+    "category": "Mandatory",
+    "image_count": 8,
+    "images": [
+      "024_008.jpg",
+      "024_009.jpg",
+      "024_006.jpg",
+      "024_004.jpg",
+      "024_010.jpg",
+      "024_001.jpg",
+      "024_002.jpg",
+      "024_003.jpg"
+    ]
+  },
+  "025": {
+    "class_name": "No_Stopping_or_Standing",
+    "category": "Mandatory",
+    "image_count": 8,
+    "images": [
+      "025_009.jpg",
+      "025_002.jpg",
+      "025_003.jpg",
+      "025_001.jpg",
+      "025_010.jpg",
+      "025_004.jpg",
+      "025_005.jpg",
+      "025_006.jpg"
+    ]
+  },
+  "026": {
+    "class_name": "Compulsory_Turn_Left",
+    "category": "Mandatory",
+    "image_count": 10,
+    "images": [
+      "026_008.jpg",
+      "026_009.jpg",
+      "026_001.jpg",
+      "026_002.jpg",
+      "026_003.jpg",
+      "026_007.jpg",
+      "026_006.jpg",
+      "026_010.jpg",
+      "026_004.jpg",
+      "026_005.jpg"
+    ]
+  },
+  "027": {
+    "class_name": "Compulsory_Turn_Right",
+    "category": "Mandatory",
+    "image_count": 10,
+    "images": [
+      "027_008.jpg",
+      "027_009.jpg",
+      "027_004.jpg",
+      "027_010.jpg",
+      "027_005.jpg",
+      "027_007.jpg",
+      "027_006.jpg",
+      "027_002.jpg",
+      "027_003.jpg",
+      "027_001.jpg"
+    ]
+  },
+  "029": {
+    "class_name": "Compulsory_Turn_Right_Ahead",
+    "category": "Mandatory",
+    "image_count": 10,
+    "images": [
+      "029_005.jpg",
+      "029_010.jpg",
+      "029_004.jpg",
+      "029_006.jpg",
+      "029_007.jpg",
+      "029_003.jpg",
+      "029_002.jpg",
+      "029_001.jpg",
+      "029_009.jpg",
+      "029_008.jpg"
+    ]
+  },
+  "030": {
+    "class_name": "Compulsory_Turn_Left_Ahead",
+    "category": "Mandatory",
+    "image_count": 10,
+    "images": [
+      "030_006.jpg",
+      "030_007.jpg",
+      "030_005.jpg",
+      "030_010.jpg",
+      "030_004.jpg",
+      "030_001.jpg",
+      "030_003.jpg",
+      "030_002.jpg",
+      "030_009.jpg",
+      "030_008.jpg"
+    ]
+  },
+  "031": {
+    "class_name": "Compulsory_Ahead_or_Turn_Right",
+    "category": "Mandatory",
+    "image_count": 10,
+    "images": [
+      "031_003.jpg",
+      "031_002.jpg",
+      "031_001.jpg",
+      "031_005.jpg",
+      "031_004.jpg",
+      "031_010.jpg",
+      "031_006.jpg",
+      "031_007.jpg",
+      "031_009.jpg",
+      "031_008.jpg"
+    ]
+  },
+  "032": {
+    "class_name": "Compulsory_Ahead_or_Turn_Left",
+    "category": "Mandatory",
+    "image_count": 10,
+    "images": [
+      "032_001.jpg",
+      "032_003.jpg",
+      "032_002.jpg",
+      "032_006.jpg",
+      "032_007.jpg",
+      "032_005.jpg",
+      "032_004.jpg",
+      "032_010.jpg",
+      "032_009.jpg",
+      "032_008.jpg"
+    ]
+  },
+  "033": {
+    "class_name": "Compulsory_Keep_Left",
+    "category": "Mandatory",
+    "image_count": 10,
+    "images": [
+      "033_005.jpg",
+      "033_010.jpg",
+      "033_004.jpg",
+      "033_006.jpg",
+      "033_007.jpg",
+      "033_003.jpg",
+      "033_002.jpg",
+      "033_001.jpg",
+      "033_009.jpg",
+      "033_008.jpg"
+    ]
+  },
+  "034": {
+    "class_name": "Compulsory_Cycle_Track",
+    "category": "Mandatory",
+    "image_count": 9,
+    "images": [
+      "034_008.jpg",
+      "034_009.jpg",
+      "034_007.jpg",
+      "034_006.jpg",
+      "034_010.jpg",
+      "034_004.jpg",
+      "034_005.jpg",
+      "034_002.jpg",
+      "034_003.jpg"
+    ]
+  },
+  "035": {
+    "class_name": "Compulsory_Sound_Horn",
+    "category": "Mandatory",
+    "image_count": 10,
+    "images": [
+      "035_008.jpg",
+      "035_009.jpg",
+      "035_002.jpg",
+      "035_003.jpg",
+      "035_001.jpg",
+      "035_004.jpg",
+      "035_010.jpg",
+      "035_005.jpg",
+      "035_007.jpg",
+      "035_006.jpg"
+    ]
+  },
+  "038": {
+    "class_name": "Mandatory_Two_Way_Traffic",
+    "category": "Mandatory",
+    "image_count": 10,
+    "images": [
+      "038_001.jpg",
+      "038_003.jpg",
+      "038_002.jpg",
+      "038_006.jpg",
+      "038_007.jpg",
+      "038_005.jpg",
+      "038_010.jpg",
+      "038_004.jpg",
+      "038_009.jpg",
+      "038_008.jpg"
+    ]
+  },
+  "039": {
+    "class_name": "Speed_Limit_40",
+    "category": "Mandatory",
+    "image_count": 10,
+    "images": [
+      "039_005.jpg",
+      "039_004.jpg",
+      "039_010.jpg",
+      "039_006.jpg",
+      "039_007.jpg",
+      "039_003.jpg",
+      "039_002.jpg",
+      "039_001.jpg",
+      "039_009.jpg",
+      "039_008.jpg"
+    ]
+  },
+  "040": {
+    "class_name": "Pass_Either_Side",
+    "category": "Mandatory",
+    "image_count": 10,
+    "images": [
+      "040_001.jpg",
+      "040_003.jpg",
+      "040_002.jpg",
+      "040_006.jpg",
+      "040_007.jpg",
+      "040_005.jpg",
+      "040_010.jpg",
+      "040_004.jpg",
+      "040_009.jpg",
+      "040_008.jpg"
+    ]
+  },
+  "041": {
+    "class_name": "Speed_Limit_60",
+    "category": "Mandatory",
+    "image_count": 10,
+    "images": [
+      "041_005.jpg",
+      "041_004.jpg",
+      "041_010.jpg",
+      "041_006.jpg",
+      "041_007.jpg",
+      "041_003.jpg",
+      "041_002.jpg",
+      "041_001.jpg",
+      "041_009.jpg",
+      "041_008.jpg"
+    ]
+  },
+  "101": {
+    "class_name": "Right_Hand_Curve",
+    "category": "Cautionary",
+    "image_count": 14,
+    "images": [
+      "101_009.jpg",
+      "101_008.jpg",
+      "101_111.jpg",
+      "101_110.jpg",
+      "101_112.jpg",
+      "101_113.jpg",
+      "101_114.jpg",
+      "101_006.jpg",
+      "101_007.jpg",
+      "101_005.jpg",
+      "101_004.jpg",
+      "101_001.jpg",
+      "101_003.jpg",
+      "101_002.jpg"
+    ]
+  },
+  "102": {
+    "class_name": "Left_Hand_Curve",
+    "category": "Cautionary",
+    "image_count": 13,
+    "images": [
+      "102_009.jpg",
+      "102_008.jpg",
+      "102_005.jpg",
+      "102_004.jpg",
+      "102_006.jpg",
+      "102_007.jpg",
+      "102_003.jpg",
+      "102_002.jpg",
+      "102_001.jpg",
+      "102_112.jpg",
+      "102_111.jpg",
+      "102_114.jpg",
+      "102_115.jpg"
+    ]
+  },
+  "103": {
+    "class_name": "Right_Hair_Pin_Bend",
+    "category": "Cautionary",
+    "image_count": 13,
+    "images": [
+      "103_009.jpg",
+      "103_008.jpg",
+      "103_014.jpg",
+      "103_015.jpg",
+      "103_003.jpg",
+      "103_002.jpg",
+      "103_012.jpg",
+      "103_007.jpg",
+      "103_013.jpg",
+      "103_005.jpg",
+      "103_011.jpg",
+      "103_010.jpg",
+      "103_004.jpg"
+    ]
+  },
+  "104": {
+    "class_name": "Left_Hair_Pin_Bend",
+    "category": "Cautionary",
+    "image_count": 15,
+    "images": [
+      "104_002.jpg",
+      "104_003.jpg",
+      "104_015.jpg",
+      "104_001.jpg",
+      "104_014.jpg",
+      "104_010.jpg",
+      "104_004.jpg",
+      "104_005.jpg",
+      "104_011.jpg",
+      "104_007.jpg",
+      "104_013.jpg",
+      "104_012.jpg",
+      "104_006.jpg",
+      "104_008.jpg",
+      "104_009.jpg"
+    ]
+  },
+  "105": {
+    "class_name": "Right_Reverse_Bend",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "105_007.jpg",
+      "105_006.jpg",
+      "105_004.jpg",
+      "105_005.jpg",
+      "105_001.jpg",
+      "105_002.jpg",
+      "105_003.jpg",
+      "105_110.jpg",
+      "105_008.jpg",
+      "105_009.jpg"
+    ]
+  },
+  "106": {
+    "class_name": "Left_Reverse_Bend",
+    "category": "Cautionary",
+    "image_count": 15,
+    "images": [
+      "106_004.jpg",
+      "106_010.jpg",
+      "106_011.jpg",
+      "106_005.jpg",
+      "106_013.jpg",
+      "106_007.jpg",
+      "106_006.jpg",
+      "106_012.jpg",
+      "106_002.jpg",
+      "106_003.jpg",
+      "106_001.jpg",
+      "106_015.jpg",
+      "106_014.jpg",
+      "106_008.jpg",
+      "106_009.jpg"
+    ]
+  },
+  "107": {
+    "class_name": "Steep_Ascent",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "107_001.jpg",
+      "107_002.jpg",
+      "107_003.jpg",
+      "107_007.jpg",
+      "107_006.jpg",
+      "107_010.jpg",
+      "107_004.jpg",
+      "107_005.jpg",
+      "107_008.jpg",
+      "107_009.jpg"
+    ]
+  },
+  "108": {
+    "class_name": "Steep_Descent",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "108_009.jpg",
+      "108_008.jpg",
+      "108_005.jpg",
+      "108_010.jpg",
+      "108_004.jpg",
+      "108_006.jpg",
+      "108_007.jpg",
+      "108_003.jpg",
+      "108_002.jpg",
+      "108_001.jpg"
+    ]
+  },
+  "109": {
+    "class_name": "Narrow_Road_Ahead",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "109_009.jpg",
+      "109_008.jpg",
+      "109_001.jpg",
+      "109_003.jpg",
+      "109_002.jpg",
+      "109_006.jpg",
+      "109_007.jpg",
+      "109_005.jpg",
+      "109_004.jpg",
+      "109_010.jpg"
+    ]
+  },
+  "111": {
+    "class_name": "Narrow_Bridge",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "111_009.jpg",
+      "111_008.jpg",
+      "111_006.jpg",
+      "111_007.jpg",
+      "111_005.jpg",
+      "111_010.jpg",
+      "111_004.jpg",
+      "111_001.jpg",
+      "111_003.jpg",
+      "111_002.jpg"
+    ]
+  },
+  "112": {
+    "class_name": "Slippery_Road",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "112_009.jpg",
+      "112_008.jpg",
+      "112_005.jpg",
+      "112_010.jpg",
+      "112_004.jpg",
+      "112_006.jpg",
+      "112_007.jpg",
+      "112_003.jpg",
+      "112_002.jpg",
+      "112_001.jpg"
+    ]
+  },
+  "113": {
+    "class_name": "Loose_Gravel",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "113_009.jpg",
+      "113_008.jpg",
+      "113_001.jpg",
+      "113_003.jpg",
+      "113_002.jpg",
+      "113_006.jpg",
+      "113_007.jpg",
+      "113_005.jpg",
+      "113_004.jpg",
+      "113_010.jpg"
+    ]
+  },
+  "114": {
+    "class_name": "Cycle_Crossing",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "114_002.jpg",
+      "114_003.jpg",
+      "114_001.jpg",
+      "114_004.jpg",
+      "114_010.jpg",
+      "114_005.jpg",
+      "114_007.jpg",
+      "114_006.jpg",
+      "114_008.jpg",
+      "114_009.jpg"
+    ]
+  },
+  "115": {
+    "class_name": "Pedestrian_Crossing",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "115_007.jpg",
+      "115_006.jpg",
+      "115_010.jpg",
+      "115_004.jpg",
+      "115_005.jpg",
+      "115_001.jpg",
+      "115_002.jpg",
+      "115_003.jpg",
+      "115_008.jpg",
+      "115_009.jpg"
+    ]
+  },
+  "116": {
+    "class_name": "School_Ahead",
+    "category": "Cautionary",
+    "image_count": 9,
+    "images": [
+      "116_010.jpg",
+      "116_004.jpg",
+      "116_005.jpg",
+      "116_006.jpg",
+      "116_002.jpg",
+      "116_003.jpg",
+      "116_001.jpg",
+      "116_008.jpg",
+      "116_009.jpg"
+    ]
+  },
+  "118": {
+    "class_name": "Cattle",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "118_009.jpg",
+      "118_008.jpg",
+      "118_005.jpg",
+      "118_004.jpg",
+      "118_010.jpg",
+      "118_006.jpg",
+      "118_007.jpg",
+      "118_003.jpg",
+      "118_002.jpg",
+      "118_001.jpg"
+    ]
+  },
+  "120": {
+    "class_name": "Falling_Rocks",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "120_006.jpg",
+      "120_007.jpg",
+      "120_005.jpg",
+      "120_004.jpg",
+      "120_010.jpg",
+      "120_001.jpg",
+      "120_003.jpg",
+      "120_002.jpg",
+      "120_009.jpg",
+      "120_008.jpg"
+    ]
+  },
+  "121": {
+    "class_name": "Dangerous_Dip",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "121_003.jpg",
+      "121_002.jpg",
+      "121_001.jpg",
+      "121_005.jpg",
+      "121_010.jpg",
+      "121_004.jpg",
+      "121_006.jpg",
+      "121_007.jpg",
+      "121_009.jpg",
+      "121_008.jpg"
+    ]
+  },
+  "122": {
+    "class_name": "Hump_or_Rough_Road",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "122_001.jpg",
+      "122_003.jpg",
+      "122_002.jpg",
+      "122_006.jpg",
+      "122_007.jpg",
+      "122_005.jpg",
+      "122_010.jpg",
+      "122_004.jpg",
+      "122_009.jpg",
+      "122_008.jpg"
+    ]
+  },
+  "123": {
+    "class_name": "Barrier_Ahead",
+    "category": "Cautionary",
+    "image_count": 9,
+    "images": [
+      "123_005.jpg",
+      "123_004.jpg",
+      "123_010.jpg",
+      "123_006.jpg",
+      "123_007.jpg",
+      "123_003.jpg",
+      "123_002.jpg",
+      "123_009.jpg",
+      "123_008.jpg"
+    ]
+  },
+  "124": {
+    "class_name": "Gap_in_Median",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "124_008.jpg",
+      "124_009.jpg",
+      "124_007.jpg",
+      "124_006.jpg",
+      "124_004.jpg",
+      "124_010.jpg",
+      "124_005.jpg",
+      "124_001.jpg",
+      "124_002.jpg",
+      "124_003.jpg"
+    ]
+  },
+  "125": {
+    "class_name": "Cross_Road",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "125_008.jpg",
+      "125_009.jpg",
+      "125_002.jpg",
+      "125_003.jpg",
+      "125_001.jpg",
+      "125_010.jpg",
+      "125_004.jpg",
+      "125_005.jpg",
+      "125_007.jpg",
+      "125_006.jpg"
+    ]
+  },
+  "126": {
+    "class_name": "Side_Road_Left",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "126_008.jpg",
+      "126_009.jpg",
+      "126_001.jpg",
+      "126_002.jpg",
+      "126_003.jpg",
+      "126_007.jpg",
+      "126_006.jpg",
+      "126_010.jpg",
+      "126_004.jpg",
+      "126_005.jpg"
+    ]
+  },
+  "127": {
+    "class_name": "Side_Road_Right",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "127_008.jpg",
+      "127_009.jpg",
+      "127_004.jpg",
+      "127_010.jpg",
+      "127_005.jpg",
+      "127_007.jpg",
+      "127_006.jpg",
+      "127_002.jpg",
+      "127_003.jpg",
+      "127_001.jpg"
+    ]
+  },
+  "128": {
+    "class_name": "Y_Intersection",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "128_001.jpg",
+      "128_003.jpg",
+      "128_002.jpg",
+      "128_006.jpg",
+      "128_007.jpg",
+      "128_005.jpg",
+      "128_004.jpg",
+      "128_010.jpg",
+      "128_009.jpg",
+      "128_008.jpg"
+    ]
+  },
+  "129": {
+    "class_name": "T_Intersection",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "129_005.jpg",
+      "129_010.jpg",
+      "129_004.jpg",
+      "129_006.jpg",
+      "129_007.jpg",
+      "129_003.jpg",
+      "129_002.jpg",
+      "129_001.jpg",
+      "129_009.jpg",
+      "129_008.jpg"
+    ]
+  },
+  "130": {
+    "class_name": "Staggered_Intersection",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "130_006.jpg",
+      "130_007.jpg",
+      "130_005.jpg",
+      "130_010.jpg",
+      "130_004.jpg",
+      "130_001.jpg",
+      "130_003.jpg",
+      "130_002.jpg",
+      "130_009.jpg",
+      "130_008.jpg"
+    ]
+  },
+  "131": {
+    "class_name": "Round_About",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "131_003.jpg",
+      "131_002.jpg",
+      "131_001.jpg",
+      "131_005.jpg",
+      "131_004.jpg",
+      "131_010.jpg",
+      "131_006.jpg",
+      "131_007.jpg",
+      "131_009.jpg",
+      "131_008.jpg"
+    ]
+  },
+  "132": {
+    "class_name": "Guarded_Level_Crossing",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "132_001.jpg",
+      "132_003.jpg",
+      "132_002.jpg",
+      "132_006.jpg",
+      "132_007.jpg",
+      "132_005.jpg",
+      "132_004.jpg",
+      "132_010.jpg",
+      "132_009.jpg",
+      "132_008.jpg"
+    ]
+  },
+  "133": {
+    "class_name": "Unguarded_Level_Crossing",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "133_005.jpg",
+      "133_010.jpg",
+      "133_004.jpg",
+      "133_006.jpg",
+      "133_007.jpg",
+      "133_003.jpg",
+      "133_002.jpg",
+      "133_001.jpg",
+      "133_009.jpg",
+      "133_008.jpg"
+    ]
+  },
+  "135": {
+    "class_name": "Men_at_Work",
+    "category": "Cautionary",
+    "image_count": 9,
+    "images": [
+      "135_008.jpg",
+      "135_009.jpg",
+      "135_002.jpg",
+      "135_003.jpg",
+      "135_004.jpg",
+      "135_010.jpg",
+      "135_005.jpg",
+      "135_007.jpg",
+      "135_006.jpg"
+    ]
+  },
+  "136": {
+    "class_name": "U_Turn_Ahead",
+    "category": "Cautionary",
+    "image_count": 9,
+    "images": [
+      "136_008.jpg",
+      "136_009.jpg",
+      "136_001.jpg",
+      "136_003.jpg",
+      "136_007.jpg",
+      "136_006.jpg",
+      "136_004.jpg",
+      "136_010.jpg",
+      "136_005.jpg"
+    ]
+  },
+  "137": {
+    "class_name": "Merge_Traffic_Ahead",
+    "category": "Cautionary",
+    "image_count": 10,
+    "images": [
+      "137_008.jpg",
+      "137_009.jpg",
+      "137_010.jpg",
+      "137_004.jpg",
+      "137_005.jpg",
+      "137_007.jpg",
+      "137_006.jpg",
+      "137_002.jpg",
+      "137_003.jpg",
+      "137_001.jpg"
+    ]
+  }
+}

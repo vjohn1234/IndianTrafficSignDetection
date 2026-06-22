@@ -1,0 +1,10 @@
+{
+  "analysis_date": "2025-09-28",
+  "total_classes_with_images": 60,
+  "total_classes_without_images": 18,
+  "total_images": 604,
+  "mandatory_classes": 27,
+  "cautionary_classes": 33,
+  "target_images_per_class": 500,
+  "pipeline_ready": true
+}
