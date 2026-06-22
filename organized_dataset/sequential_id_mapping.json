@@ -1,0 +1,308 @@
+{
+  "description": "Mapping between original dataset class IDs and sequential folder IDs",
+  "mandatory_mapping": {
+    "001": {
+      "sequential_id": "001",
+      "class_name": "Stop",
+      "image_count": 10
+    },
+    "002": {
+      "sequential_id": "002",
+      "class_name": "Give_Way",
+      "image_count": 10
+    },
+    "003": {
+      "sequential_id": "003",
+      "class_name": "No_Entry",
+      "image_count": 10
+    },
+    "004": {
+      "sequential_id": "004",
+      "class_name": "Priority_for_Oncoming_Traffic",
+      "image_count": 10
+    },
+    "005": {
+      "sequential_id": "005",
+      "class_name": "All_Motor_Vehicles_Prohibited",
+      "image_count": 10
+    },
+    "006": {
+      "sequential_id": "006",
+      "class_name": "Truck_Prohibited",
+      "image_count": 8
+    },
+    "013": {
+      "sequential_id": "007",
+      "class_name": "Right_Turn_Prohibited",
+      "image_count": 9
+    },
+    "014": {
+      "sequential_id": "008",
+      "class_name": "Left_Turn_Prohibited",
+      "image_count": 10
+    },
+    "015": {
+      "sequential_id": "009",
+      "class_name": "U_Turn_Prohibited",
+      "image_count": 10
+    },
+    "016": {
+      "sequential_id": "010",
+      "class_name": "Overtaking_Prohibited",
+      "image_count": 9
+    },
+    "017": {
+      "sequential_id": "011",
+      "class_name": "Horn_Prohibited",
+      "image_count": 9
+    },
+    "023": {
+      "sequential_id": "012",
+      "class_name": "Speed_Limit_20",
+      "image_count": 8
+    },
+    "024": {
+      "sequential_id": "013",
+      "class_name": "No_Parking",
+      "image_count": 8
+    },
+    "025": {
+      "sequential_id": "014",
+      "class_name": "No_Stopping_or_Standing",
+      "image_count": 8
+    },
+    "026": {
+      "sequential_id": "015",
+      "class_name": "Compulsory_Turn_Left",
+      "image_count": 10
+    },
+    "027": {
+      "sequential_id": "016",
+      "class_name": "Compulsory_Turn_Right",
+      "image_count": 10
+    },
+    "029": {
+      "sequential_id": "017",
+      "class_name": "Compulsory_Turn_Right_Ahead",
+      "image_count": 10
+    },
+    "030": {
+      "sequential_id": "018",
+      "class_name": "Compulsory_Turn_Left_Ahead",
+      "image_count": 10
+    },
+    "031": {
+      "sequential_id": "019",
+      "class_name": "Compulsory_Ahead_or_Turn_Right",
+      "image_count": 10
+    },
+    "032": {
+      "sequential_id": "020",
+      "class_name": "Compulsory_Ahead_or_Turn_Left",
+      "image_count": 10
+    },
+    "033": {
+      "sequential_id": "021",
+      "class_name": "Compulsory_Keep_Left",
+      "image_count": 10
+    },
+    "034": {
+      "sequential_id": "022",
+      "class_name": "Compulsory_Cycle_Track",
+      "image_count": 9
+    },
+    "035": {
+      "sequential_id": "023",
+      "class_name": "Compulsory_Sound_Horn",
+      "image_count": 10
+    },
+    "038": {
+      "sequential_id": "024",
+      "class_name": "Mandatory_Two_Way_Traffic",
+      "image_count": 10
+    },
+    "039": {
+      "sequential_id": "025",
+      "class_name": "Speed_Limit_40",
+      "image_count": 10
+    },
+    "040": {
+      "sequential_id": "026",
+      "class_name": "Pass_Either_Side",
+      "image_count": 10
+    },
+    "041": {
+      "sequential_id": "027",
+      "class_name": "Speed_Limit_60",
+      "image_count": 10
+    }
+  },
+  "cautionary_mapping": {
+    "101": {
+      "sequential_id": "101",
+      "class_name": "Right_Hand_Curve",
+      "image_count": 14
+    },
+    "102": {
+      "sequential_id": "102",
+      "class_name": "Left_Hand_Curve",
+      "image_count": 13
+    },
+    "103": {
+      "sequential_id": "103",
+      "class_name": "Right_Hair_Pin_Bend",
+      "image_count": 13
+    },
+    "104": {
+      "sequential_id": "104",
+      "class_name": "Left_Hair_Pin_Bend",
+      "image_count": 15
+    },
+    "105": {
+      "sequential_id": "105",
+      "class_name": "Right_Reverse_Bend",
+      "image_count": 10
+    },
+    "106": {
+      "sequential_id": "106",
+      "class_name": "Left_Reverse_Bend",
+      "image_count": 15
+    },
+    "107": {
+      "sequential_id": "107",
+      "class_name": "Steep_Ascent",
+      "image_count": 10
+    },
+    "108": {
+      "sequential_id": "108",
+      "class_name": "Steep_Descent",
+      "image_count": 10
+    },
+    "109": {
+      "sequential_id": "109",
+      "class_name": "Narrow_Road_Ahead",
+      "image_count": 10
+    },
+    "111": {
+      "sequential_id": "110",
+      "class_name": "Narrow_Bridge",
+      "image_count": 10
+    },
+    "112": {
+      "sequential_id": "111",
+      "class_name": "Slippery_Road",
+      "image_count": 10
+    },
+    "113": {
+      "sequential_id": "112",
+      "class_name": "Loose_Gravel",
+      "image_count": 10
+    },
+    "114": {
+      "sequential_id": "113",
+      "class_name": "Cycle_Crossing",
+      "image_count": 10
+    },
+    "115": {
+      "sequential_id": "114",
+      "class_name": "Pedestrian_Crossing",
+      "image_count": 10
+    },
+    "116": {
+      "sequential_id": "115",
+      "class_name": "School_Ahead",
+      "image_count": 9
+    },
+    "118": {
+      "sequential_id": "116",
+      "class_name": "Cattle",
+      "image_count": 10
+    },
+    "120": {
+      "sequential_id": "117",
+      "class_name": "Falling_Rocks",
+      "image_count": 10
+    },
+    "121": {
+      "sequential_id": "118",
+      "class_name": "Dangerous_Dip",
+      "image_count": 10
+    },
+    "122": {
+      "sequential_id": "119",
+      "class_name": "Hump_or_Rough_Road",
+      "image_count": 10
+    },
+    "123": {
+      "sequential_id": "120",
+      "class_name": "Barrier_Ahead",
+      "image_count": 9
+    },
+    "124": {
+      "sequential_id": "121",
+      "class_name": "Gap_in_Median",
+      "image_count": 10
+    },
+    "125": {
+      "sequential_id": "122",
+      "class_name": "Cross_Road",
+      "image_count": 10
+    },
+    "126": {
+      "sequential_id": "123",
+      "class_name": "Side_Road_Left",
+      "image_count": 10
+    },
+    "127": {
+      "sequential_id": "124",
+      "class_name": "Side_Road_Right",
+      "image_count": 10
+    },
+    "128": {
+      "sequential_id": "125",
+      "class_name": "Y_Intersection",
+      "image_count": 10
+    },
+    "129": {
+      "sequential_id": "126",
+      "class_name": "T_Intersection",
+      "image_count": 10
+    },
+    "130": {
+      "sequential_id": "127",
+      "class_name": "Staggered_Intersection",
+      "image_count": 10
+    },
+    "131": {
+      "sequential_id": "128",
+      "class_name": "Round_About",
+      "image_count": 10
+    },
+    "132": {
+      "sequential_id": "129",
+      "class_name": "Guarded_Level_Crossing",
+      "image_count": 10
+    },
+    "133": {
+      "sequential_id": "130",
+      "class_name": "Unguarded_Level_Crossing",
+      "image_count": 10
+    },
+    "135": {
+      "sequential_id": "131",
+      "class_name": "Men_at_Work",
+      "image_count": 9
+    },
+    "136": {
+      "sequential_id": "132",
+      "class_name": "U_Turn_Ahead",
+      "image_count": 9
+    },
+    "137": {
+      "sequential_id": "133",
+      "class_name": "Merge_Traffic_Ahead",
+      "image_count": 10
+    }
+  },
+  "creation_date": "2025-09-28"
+}

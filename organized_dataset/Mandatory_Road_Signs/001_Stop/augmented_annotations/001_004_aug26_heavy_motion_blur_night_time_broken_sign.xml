@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>images</folder>
+	<filename>001_004_aug26_heavy_motion_blur_night_time_broken_sign.jpg</filename>
+	<path>/Users/jvarghese/Documents/TrafficSignProject/organized_dataset/Mandatory_Road_Signs/001_Stop/images/001_004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>246</ymin>
+			<xmax>353</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

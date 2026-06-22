@@ -1,0 +1,11 @@
+{
+  "sequential_id": "015",
+  "original_id": "026",
+  "class_name": "Compulsory_Turn_Left",
+  "category": "Mandatory",
+  "image_count": 10,
+  "target_total_images": 500,
+  "augmentation_needed": 490,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}

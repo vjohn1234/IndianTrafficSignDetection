@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>images</folder>
+	<filename>011_006_aug6_medium_rain_broken_sign_shadow.jpg</filename>
+	<path>/Users/jvarghese/Documents/TrafficSignProject/organized_dataset/Mandatory_Road_Signs/011_Horn_Prohibited/images/011_006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Horn_Prohibited</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>148</ymin>
+			<xmax>369</xmax>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+</annotation>

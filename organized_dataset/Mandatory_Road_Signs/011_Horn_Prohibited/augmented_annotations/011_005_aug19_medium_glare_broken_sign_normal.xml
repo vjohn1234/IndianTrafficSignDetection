@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>images</folder>
+	<filename>011_005_aug19_medium_glare_broken_sign_normal.jpg</filename>
+	<path>/Users/jvarghese/Documents/TrafficSignProject/organized_dataset/Mandatory_Road_Signs/011_Horn_Prohibited/images/011_005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Horn_Prohibited</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>164</ymin>
+			<xmax>477</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+</annotation>

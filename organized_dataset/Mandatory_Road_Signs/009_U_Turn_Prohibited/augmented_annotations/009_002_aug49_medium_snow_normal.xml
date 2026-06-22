@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>images</folder>
+	<filename>009_002_aug49_medium_snow_normal.jpg</filename>
+	<path>/Users/jvarghese/Documents/TrafficSignProject/organized_dataset/Mandatory_Road_Signs/009_U_Turn_Prohibited/images/009_002.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>U_Turn_Prohibited</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>143</ymin>
+			<xmax>465</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>

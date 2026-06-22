@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>images</folder>
+	<filename>024_010_aug7_light_normal_night_time_snow.jpg</filename>
+	<path>/Users/jvarghese/Documents/TrafficSignProject/organized_dataset/Mandatory_Road_Signs/024_Mandatory_Two_Way_Traffic/images/024_010.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mandatory_Two_Way_Traffic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>122</ymin>
+			<xmax>599</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>

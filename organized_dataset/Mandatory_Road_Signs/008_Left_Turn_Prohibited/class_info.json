@@ -1,0 +1,11 @@
+{
+  "sequential_id": "008",
+  "original_id": "014",
+  "class_name": "Left_Turn_Prohibited",
+  "category": "Mandatory",
+  "image_count": 10,
+  "target_total_images": 500,
+  "augmentation_needed": 490,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}

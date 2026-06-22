@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>025_005.jpg</filename>
+	<path>/Users/jvarghese/Documents/TrafficSignProject/organized_dataset/Mandatory_Road_Signs/025_Speed_Limit_40/images/025_005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Speed_Limit_40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>250</ymin>
+			<xmax>427</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>

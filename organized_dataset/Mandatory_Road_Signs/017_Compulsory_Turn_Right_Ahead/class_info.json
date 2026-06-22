@@ -1,0 +1,11 @@
+{
+  "sequential_id": "017",
+  "original_id": "029",
+  "class_name": "Compulsory_Turn_Right_Ahead",
+  "category": "Mandatory",
+  "image_count": 10,
+  "target_total_images": 500,
+  "augmentation_needed": 490,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}

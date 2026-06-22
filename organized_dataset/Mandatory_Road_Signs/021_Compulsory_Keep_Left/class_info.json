@@ -1,0 +1,11 @@
+{
+  "sequential_id": "021",
+  "original_id": "033",
+  "class_name": "Compulsory_Keep_Left",
+  "category": "Mandatory",
+  "image_count": 10,
+  "target_total_images": 500,
+  "augmentation_needed": 490,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}

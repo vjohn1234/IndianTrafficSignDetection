@@ -1,0 +1,11 @@
+{
+  "sequential_id": "013",
+  "original_id": "024",
+  "class_name": "No_Parking",
+  "category": "Mandatory",
+  "image_count": 8,
+  "target_total_images": 500,
+  "augmentation_needed": 492,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}

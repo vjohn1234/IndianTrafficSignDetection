@@ -1,0 +1,11 @@
+{
+  "sequential_id": "011",
+  "original_id": "017",
+  "class_name": "Horn_Prohibited",
+  "category": "Mandatory",
+  "image_count": 9,
+  "target_total_images": 500,
+  "augmentation_needed": 491,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}

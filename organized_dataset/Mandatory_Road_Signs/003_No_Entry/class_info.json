@@ -1,0 +1,11 @@
+{
+  "sequential_id": "003",
+  "original_id": "003",
+  "class_name": "No_Entry",
+  "category": "Mandatory",
+  "image_count": 10,
+  "target_total_images": 500,
+  "augmentation_needed": 490,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}

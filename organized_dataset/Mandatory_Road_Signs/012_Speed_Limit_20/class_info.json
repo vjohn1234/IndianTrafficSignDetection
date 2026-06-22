@@ -1,0 +1,11 @@
+{
+  "sequential_id": "012",
+  "original_id": "023",
+  "class_name": "Speed_Limit_20",
+  "category": "Mandatory",
+  "image_count": 8,
+  "target_total_images": 500,
+  "augmentation_needed": 492,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}

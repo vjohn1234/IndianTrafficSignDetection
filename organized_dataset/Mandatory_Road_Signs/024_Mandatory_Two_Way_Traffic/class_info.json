@@ -1,0 +1,11 @@
+{
+  "sequential_id": "024",
+  "original_id": "038",
+  "class_name": "Mandatory_Two_Way_Traffic",
+  "category": "Mandatory",
+  "image_count": 10,
+  "target_total_images": 500,
+  "augmentation_needed": 490,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}

@@ -1,0 +1,11 @@
+{
+  "sequential_id": "002",
+  "original_id": "002",
+  "class_name": "Give_Way",
+  "category": "Mandatory",
+  "image_count": 10,
+  "target_total_images": 500,
+  "augmentation_needed": 490,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}

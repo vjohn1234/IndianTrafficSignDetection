@@ -1,0 +1,11 @@
+{
+  "sequential_id": "014",
+  "original_id": "025",
+  "class_name": "No_Stopping_or_Standing",
+  "category": "Mandatory",
+  "image_count": 8,
+  "target_total_images": 500,
+  "augmentation_needed": 492,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}

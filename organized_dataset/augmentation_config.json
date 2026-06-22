@@ -1,0 +1,1605 @@
+{
+  "creation_date": "2025-09-30 04:22:38",
+  "target_images_per_class": 500,
+  "transformations": [
+    "brightness_contrast",
+    "rotation",
+    "flip_horizontal",
+    "gaussian_blur",
+    "add_noise",
+    "rain",
+    "snow",
+    "motion_blur",
+    "glare",
+    "occlusion",
+    "tilt",
+    "night_time",
+    "broken_sign",
+    "shadow"
+  ],
+  "classes": {
+    "001": {
+      "sequential_id": "001",
+      "class_name": "Stop",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 162,
+        "medium": 172,
+        "heavy": 156
+      },
+      "condition_stats": {
+        "tilt": 119,
+        "broken_sign": 127,
+        "night_time": 115,
+        "occlusion": 96,
+        "normal": 106,
+        "shadow": 94,
+        "glare": 107,
+        "fog": 110,
+        "motion_blur": 118,
+        "rain": 123,
+        "snow": 111
+      },
+      "augmentation_date": "2025-09-30 11:24:13"
+    },
+    "002": {
+      "sequential_id": "002",
+      "class_name": "Give_Way",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 183,
+        "medium": 157,
+        "heavy": 150
+      },
+      "condition_stats": {
+        "tilt": 103,
+        "night_time": 120,
+        "snow": 98,
+        "rain": 115,
+        "motion_blur": 99,
+        "normal": 107,
+        "glare": 123,
+        "fog": 106,
+        "occlusion": 124,
+        "broken_sign": 91,
+        "shadow": 138
+      },
+      "augmentation_date": "2025-09-30 11:24:32"
+    },
+    "003": {
+      "sequential_id": "003",
+      "class_name": "No_Entry",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 172,
+        "medium": 174,
+        "heavy": 144
+      },
+      "condition_stats": {
+        "normal": 94,
+        "occlusion": 106,
+        "shadow": 105,
+        "night_time": 101,
+        "rain": 119,
+        "motion_blur": 113,
+        "fog": 110,
+        "tilt": 106,
+        "snow": 123,
+        "glare": 129,
+        "broken_sign": 118
+      },
+      "augmentation_date": "2025-09-30 11:24:46"
+    },
+    "004": {
+      "sequential_id": "004",
+      "class_name": "Priority_for_Oncoming_Traffic",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 165,
+        "medium": 154,
+        "heavy": 171
+      },
+      "condition_stats": {
+        "tilt": 114,
+        "rain": 110,
+        "normal": 119,
+        "fog": 96,
+        "motion_blur": 109,
+        "shadow": 101,
+        "glare": 114,
+        "broken_sign": 111,
+        "occlusion": 117,
+        "snow": 117,
+        "night_time": 119
+      },
+      "augmentation_date": "2025-09-30 11:24:58"
+    },
+    "005": {
+      "sequential_id": "005",
+      "class_name": "All_Motor_Vehicles_Prohibited",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 153,
+        "medium": 177,
+        "heavy": 160
+      },
+      "condition_stats": {
+        "rain": 128,
+        "fog": 122,
+        "occlusion": 102,
+        "night_time": 113,
+        "tilt": 112,
+        "normal": 103,
+        "broken_sign": 100,
+        "motion_blur": 123,
+        "snow": 111,
+        "glare": 90,
+        "shadow": 134
+      },
+      "augmentation_date": "2025-09-30 11:25:14"
+    },
+    "006": {
+      "sequential_id": "006",
+      "class_name": "Truck_Prohibited",
+      "original_image_count": 8,
+      "augmented_image_count": 492,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 159,
+        "medium": 159,
+        "heavy": 174
+      },
+      "condition_stats": {
+        "shadow": 120,
+        "motion_blur": 119,
+        "snow": 136,
+        "rain": 108,
+        "fog": 89,
+        "broken_sign": 99,
+        "night_time": 96,
+        "tilt": 120,
+        "glare": 119,
+        "normal": 123,
+        "occlusion": 110
+      },
+      "augmentation_date": "2025-09-30 11:25:28"
+    },
+    "007": {
+      "sequential_id": "007",
+      "class_name": "Right_Turn_Prohibited",
+      "original_image_count": 9,
+      "augmented_image_count": 491,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 157,
+        "medium": 174,
+        "heavy": 160
+      },
+      "condition_stats": {
+        "motion_blur": 119,
+        "glare": 111,
+        "rain": 115,
+        "shadow": 110,
+        "broken_sign": 113,
+        "tilt": 125,
+        "fog": 85,
+        "night_time": 124,
+        "snow": 98,
+        "occlusion": 117,
+        "normal": 112
+      },
+      "augmentation_date": "2025-09-30 11:25:45"
+    },
+    "008": {
+      "sequential_id": "008",
+      "class_name": "Left_Turn_Prohibited",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 175,
+        "medium": 155,
+        "heavy": 160
+      },
+      "condition_stats": {
+        "normal": 105,
+        "rain": 111,
+        "motion_blur": 98,
+        "glare": 135,
+        "broken_sign": 112,
+        "snow": 110,
+        "fog": 120,
+        "night_time": 114,
+        "occlusion": 99,
+        "shadow": 127,
+        "tilt": 103
+      },
+      "augmentation_date": "2025-09-30 11:26:06"
+    },
+    "009": {
+      "sequential_id": "009",
+      "class_name": "U_Turn_Prohibited",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 160,
+        "medium": 159,
+        "heavy": 171
+      },
+      "condition_stats": {
+        "occlusion": 123,
+        "glare": 121,
+        "broken_sign": 105,
+        "motion_blur": 97,
+        "tilt": 105,
+        "normal": 108,
+        "rain": 114,
+        "night_time": 119,
+        "shadow": 107,
+        "snow": 114,
+        "fog": 117
+      },
+      "augmentation_date": "2025-09-30 11:26:23"
+    },
+    "010": {
+      "sequential_id": "010",
+      "class_name": "Overtaking_Prohibited",
+      "original_image_count": 9,
+      "augmented_image_count": 491,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 172,
+        "medium": 146,
+        "heavy": 173
+      },
+      "condition_stats": {
+        "normal": 111,
+        "rain": 118,
+        "fog": 117,
+        "night_time": 111,
+        "tilt": 112,
+        "motion_blur": 112,
+        "occlusion": 114,
+        "shadow": 104,
+        "glare": 117,
+        "broken_sign": 122,
+        "snow": 92
+      },
+      "augmentation_date": "2025-09-30 11:26:34"
+    },
+    "011": {
+      "sequential_id": "011",
+      "class_name": "Horn_Prohibited",
+      "original_image_count": 9,
+      "augmented_image_count": 491,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 168,
+        "medium": 162,
+        "heavy": 161
+      },
+      "condition_stats": {
+        "rain": 123,
+        "snow": 103,
+        "normal": 115,
+        "night_time": 108,
+        "shadow": 106,
+        "glare": 113,
+        "fog": 102,
+        "occlusion": 114,
+        "tilt": 114,
+        "motion_blur": 98,
+        "broken_sign": 121
+      },
+      "augmentation_date": "2025-09-30 11:26:54"
+    },
+    "012": {
+      "sequential_id": "012",
+      "class_name": "Speed_Limit_20",
+      "original_image_count": 8,
+      "augmented_image_count": 492,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 145,
+        "medium": 152,
+        "heavy": 195
+      },
+      "condition_stats": {
+        "tilt": 114,
+        "motion_blur": 94,
+        "night_time": 104,
+        "shadow": 99,
+        "glare": 126,
+        "normal": 108,
+        "snow": 117,
+        "rain": 99,
+        "occlusion": 117,
+        "fog": 104,
+        "broken_sign": 126
+      },
+      "augmentation_date": "2025-09-30 11:27:07"
+    },
+    "013": {
+      "sequential_id": "013",
+      "class_name": "No_Parking",
+      "original_image_count": 8,
+      "augmented_image_count": 492,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 165,
+        "medium": 158,
+        "heavy": 169
+      },
+      "condition_stats": {
+        "glare": 109,
+        "tilt": 115,
+        "fog": 111,
+        "night_time": 104,
+        "broken_sign": 108,
+        "rain": 111,
+        "shadow": 120,
+        "normal": 113,
+        "occlusion": 106,
+        "motion_blur": 105,
+        "snow": 113
+      },
+      "augmentation_date": "2025-09-30 11:27:18"
+    },
+    "014": {
+      "sequential_id": "014",
+      "class_name": "No_Stopping_or_Standing",
+      "original_image_count": 8,
+      "augmented_image_count": 492,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 181,
+        "medium": 152,
+        "heavy": 159
+      },
+      "condition_stats": {
+        "shadow": 118,
+        "glare": 97,
+        "occlusion": 115,
+        "snow": 111,
+        "night_time": 103,
+        "broken_sign": 102,
+        "fog": 116,
+        "normal": 138,
+        "rain": 115,
+        "motion_blur": 107,
+        "tilt": 116
+      },
+      "augmentation_date": "2025-09-30 11:27:29"
+    },
+    "015": {
+      "sequential_id": "015",
+      "class_name": "Compulsory_Turn_Left",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 147,
+        "medium": 169,
+        "heavy": 174
+      },
+      "condition_stats": {
+        "night_time": 120,
+        "tilt": 114,
+        "glare": 84,
+        "rain": 101,
+        "occlusion": 86,
+        "broken_sign": 124,
+        "fog": 125,
+        "shadow": 127,
+        "normal": 139,
+        "motion_blur": 113,
+        "snow": 98
+      },
+      "augmentation_date": "2025-09-30 11:27:44"
+    },
+    "016": {
+      "sequential_id": "016",
+      "class_name": "Compulsory_Turn_Right",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 161,
+        "medium": 154,
+        "heavy": 175
+      },
+      "condition_stats": {
+        "rain": 124,
+        "occlusion": 113,
+        "normal": 119,
+        "broken_sign": 113,
+        "fog": 98,
+        "motion_blur": 106,
+        "glare": 99,
+        "shadow": 110,
+        "tilt": 107,
+        "night_time": 116,
+        "snow": 111
+      },
+      "augmentation_date": "2025-09-30 11:28:04"
+    },
+    "017": {
+      "sequential_id": "017",
+      "class_name": "Compulsory_Turn_Right_Ahead",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 176,
+        "medium": 142,
+        "heavy": 172
+      },
+      "condition_stats": {
+        "rain": 114,
+        "motion_blur": 112,
+        "tilt": 107,
+        "night_time": 109,
+        "normal": 104,
+        "shadow": 116,
+        "occlusion": 102,
+        "glare": 108,
+        "broken_sign": 124,
+        "fog": 113,
+        "snow": 111
+      },
+      "augmentation_date": "2025-09-30 11:28:22"
+    },
+    "018": {
+      "sequential_id": "018",
+      "class_name": "Compulsory_Turn_Left_Ahead",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 158,
+        "medium": 166,
+        "heavy": 166
+      },
+      "condition_stats": {
+        "snow": 117,
+        "normal": 105,
+        "broken_sign": 108,
+        "glare": 116,
+        "night_time": 115,
+        "motion_blur": 112,
+        "fog": 107,
+        "occlusion": 115,
+        "rain": 114,
+        "shadow": 112,
+        "tilt": 114
+      },
+      "augmentation_date": "2025-09-30 11:28:40"
+    },
+    "019": {
+      "sequential_id": "019",
+      "class_name": "Compulsory_Ahead_or_Turn_Right",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 166,
+        "medium": 154,
+        "heavy": 170
+      },
+      "condition_stats": {
+        "rain": 109,
+        "shadow": 110,
+        "glare": 97,
+        "snow": 104,
+        "motion_blur": 127,
+        "fog": 114,
+        "occlusion": 117,
+        "tilt": 116,
+        "normal": 88,
+        "night_time": 116,
+        "broken_sign": 102
+      },
+      "augmentation_date": "2025-09-30 11:28:54"
+    },
+    "020": {
+      "sequential_id": "020",
+      "class_name": "Compulsory_Ahead_or_Turn_Left",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 185,
+        "medium": 159,
+        "heavy": 146
+      },
+      "condition_stats": {
+        "tilt": 99,
+        "broken_sign": 112,
+        "motion_blur": 114,
+        "glare": 109,
+        "night_time": 115,
+        "snow": 122,
+        "fog": 116,
+        "rain": 109,
+        "shadow": 106,
+        "normal": 108,
+        "occlusion": 100
+      },
+      "augmentation_date": "2025-09-30 11:29:16"
+    },
+    "021": {
+      "sequential_id": "021",
+      "class_name": "Compulsory_Keep_Left",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 164,
+        "medium": 156,
+        "heavy": 170
+      },
+      "condition_stats": {
+        "rain": 113,
+        "snow": 122,
+        "night_time": 108,
+        "glare": 126,
+        "broken_sign": 118,
+        "normal": 121,
+        "tilt": 113,
+        "fog": 105,
+        "shadow": 101,
+        "occlusion": 113,
+        "motion_blur": 95
+      },
+      "augmentation_date": "2025-09-30 11:29:32"
+    },
+    "022": {
+      "sequential_id": "022",
+      "class_name": "Compulsory_Cycle_Track",
+      "original_image_count": 9,
+      "augmented_image_count": 491,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 150,
+        "medium": 176,
+        "heavy": 165
+      },
+      "condition_stats": {
+        "rain": 107,
+        "tilt": 129,
+        "normal": 109,
+        "night_time": 108,
+        "glare": 112,
+        "occlusion": 112,
+        "snow": 114,
+        "motion_blur": 115,
+        "broken_sign": 114,
+        "fog": 125,
+        "shadow": 94
+      },
+      "augmentation_date": "2025-09-30 11:29:46"
+    },
+    "023": {
+      "sequential_id": "023",
+      "class_name": "Compulsory_Sound_Horn",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 169,
+        "medium": 150,
+        "heavy": 171
+      },
+      "condition_stats": {
+        "snow": 109,
+        "shadow": 104,
+        "occlusion": 106,
+        "night_time": 115,
+        "motion_blur": 105,
+        "rain": 119,
+        "broken_sign": 103,
+        "normal": 114,
+        "fog": 112,
+        "tilt": 111,
+        "glare": 119
+      },
+      "augmentation_date": "2025-09-30 11:30:09"
+    },
+    "024": {
+      "sequential_id": "024",
+      "class_name": "Mandatory_Two_Way_Traffic",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 156,
+        "medium": 190,
+        "heavy": 144
+      },
+      "condition_stats": {
+        "tilt": 109,
+        "snow": 113,
+        "broken_sign": 121,
+        "motion_blur": 124,
+        "rain": 121,
+        "shadow": 122,
+        "fog": 122,
+        "glare": 117,
+        "occlusion": 82,
+        "normal": 101,
+        "night_time": 96
+      },
+      "augmentation_date": "2025-09-30 11:30:36"
+    },
+    "025": {
+      "sequential_id": "025",
+      "class_name": "Speed_Limit_40",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 152,
+        "medium": 179,
+        "heavy": 159
+      },
+      "condition_stats": {
+        "occlusion": 102,
+        "fog": 119,
+        "rain": 104,
+        "broken_sign": 135,
+        "snow": 113,
+        "night_time": 101,
+        "motion_blur": 122,
+        "tilt": 125,
+        "glare": 96,
+        "shadow": 107,
+        "normal": 106
+      },
+      "augmentation_date": "2025-09-30 11:30:51"
+    },
+    "026": {
+      "sequential_id": "026",
+      "class_name": "Pass_Either_Side",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 151,
+        "medium": 158,
+        "heavy": 181
+      },
+      "condition_stats": {
+        "snow": 100,
+        "tilt": 117,
+        "motion_blur": 121,
+        "rain": 121,
+        "glare": 98,
+        "normal": 104,
+        "occlusion": 116,
+        "broken_sign": 110,
+        "night_time": 127,
+        "fog": 106,
+        "shadow": 108
+      },
+      "augmentation_date": "2025-09-30 11:31:03"
+    },
+    "027": {
+      "sequential_id": "027",
+      "class_name": "Speed_Limit_60",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 175,
+        "medium": 161,
+        "heavy": 154
+      },
+      "condition_stats": {
+        "broken_sign": 122,
+        "fog": 105,
+        "glare": 111,
+        "motion_blur": 115,
+        "tilt": 107,
+        "night_time": 125,
+        "occlusion": 119,
+        "shadow": 102,
+        "snow": 89,
+        "normal": 106,
+        "rain": 119
+      },
+      "augmentation_date": "2025-09-30 11:31:16"
+    },
+    "101": {
+      "sequential_id": "101",
+      "class_name": "Right_Hand_Curve",
+      "original_image_count": 14,
+      "augmented_image_count": 486,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 151,
+        "medium": 163,
+        "heavy": 172
+      },
+      "condition_stats": {
+        "broken_sign": 103,
+        "motion_blur": 125,
+        "occlusion": 111,
+        "tilt": 101,
+        "fog": 100,
+        "snow": 125,
+        "glare": 119,
+        "shadow": 108,
+        "normal": 116,
+        "night_time": 90,
+        "rain": 99
+      },
+      "augmentation_date": "2025-09-30 11:31:26"
+    },
+    "102": {
+      "sequential_id": "102",
+      "class_name": "Left_Hand_Curve",
+      "original_image_count": 13,
+      "augmented_image_count": 487,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 163,
+        "medium": 170,
+        "heavy": 154
+      },
+      "condition_stats": {
+        "glare": 94,
+        "motion_blur": 110,
+        "rain": 125,
+        "occlusion": 113,
+        "snow": 115,
+        "tilt": 107,
+        "night_time": 115,
+        "shadow": 107,
+        "fog": 118,
+        "normal": 128,
+        "broken_sign": 101
+      },
+      "augmentation_date": "2025-09-30 11:31:37"
+    },
+    "103": {
+      "sequential_id": "103",
+      "class_name": "Right_Hair_Pin_Bend",
+      "original_image_count": 13,
+      "augmented_image_count": 487,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 162,
+        "medium": 181,
+        "heavy": 144
+      },
+      "condition_stats": {
+        "snow": 96,
+        "fog": 130,
+        "shadow": 103,
+        "night_time": 105,
+        "rain": 114,
+        "occlusion": 99,
+        "normal": 101,
+        "motion_blur": 115,
+        "glare": 118,
+        "broken_sign": 89,
+        "tilt": 124
+      },
+      "augmentation_date": "2025-09-30 11:31:52"
+    },
+    "104": {
+      "sequential_id": "104",
+      "class_name": "Left_Hair_Pin_Bend",
+      "original_image_count": 15,
+      "augmented_image_count": 485,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 162,
+        "medium": 140,
+        "heavy": 183
+      },
+      "condition_stats": {
+        "occlusion": 107,
+        "normal": 106,
+        "tilt": 102,
+        "snow": 109,
+        "shadow": 130,
+        "fog": 95,
+        "night_time": 102,
+        "motion_blur": 125,
+        "rain": 120,
+        "glare": 111,
+        "broken_sign": 107
+      },
+      "augmentation_date": "2025-09-30 11:32:08"
+    },
+    "105": {
+      "sequential_id": "105",
+      "class_name": "Right_Reverse_Bend",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 159,
+        "medium": 157,
+        "heavy": 174
+      },
+      "condition_stats": {
+        "shadow": 120,
+        "normal": 116,
+        "snow": 117,
+        "fog": 100,
+        "night_time": 133,
+        "broken_sign": 98,
+        "tilt": 103,
+        "rain": 111,
+        "glare": 94,
+        "occlusion": 100,
+        "motion_blur": 116
+      },
+      "augmentation_date": "2025-09-30 11:32:25"
+    },
+    "106": {
+      "sequential_id": "106",
+      "class_name": "Left_Reverse_Bend",
+      "original_image_count": 15,
+      "augmented_image_count": 485,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 168,
+        "medium": 146,
+        "heavy": 171
+      },
+      "condition_stats": {
+        "motion_blur": 115,
+        "fog": 113,
+        "normal": 111,
+        "occlusion": 104,
+        "night_time": 117,
+        "glare": 119,
+        "snow": 110,
+        "shadow": 111,
+        "tilt": 96,
+        "rain": 115,
+        "broken_sign": 114
+      },
+      "augmentation_date": "2025-09-30 11:32:40"
+    },
+    "107": {
+      "sequential_id": "107",
+      "class_name": "Steep_Ascent",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 171,
+        "medium": 164,
+        "heavy": 155
+      },
+      "condition_stats": {
+        "glare": 112,
+        "night_time": 109,
+        "occlusion": 108,
+        "snow": 120,
+        "tilt": 107,
+        "motion_blur": 101,
+        "rain": 104,
+        "broken_sign": 114,
+        "fog": 111,
+        "shadow": 128,
+        "normal": 118
+      },
+      "augmentation_date": "2025-09-30 11:32:57"
+    },
+    "108": {
+      "sequential_id": "108",
+      "class_name": "Steep_Descent",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 180,
+        "medium": 164,
+        "heavy": 146
+      },
+      "condition_stats": {
+        "normal": 113,
+        "snow": 106,
+        "shadow": 107,
+        "motion_blur": 108,
+        "rain": 117,
+        "tilt": 120,
+        "fog": 106,
+        "broken_sign": 115,
+        "night_time": 118,
+        "occlusion": 110,
+        "glare": 113
+      },
+      "augmentation_date": "2025-09-30 11:33:13"
+    },
+    "109": {
+      "sequential_id": "109",
+      "class_name": "Narrow_Road_Ahead",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 174,
+        "medium": 157,
+        "heavy": 159
+      },
+      "condition_stats": {
+        "glare": 110,
+        "motion_blur": 110,
+        "rain": 120,
+        "snow": 116,
+        "occlusion": 96,
+        "tilt": 114,
+        "broken_sign": 110,
+        "normal": 119,
+        "fog": 105,
+        "shadow": 97,
+        "night_time": 112
+      },
+      "augmentation_date": "2025-09-30 11:33:26"
+    },
+    "110": {
+      "sequential_id": "110",
+      "class_name": "Narrow_Bridge",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 165,
+        "medium": 165,
+        "heavy": 160
+      },
+      "condition_stats": {
+        "motion_blur": 138,
+        "rain": 113,
+        "snow": 107,
+        "occlusion": 116,
+        "night_time": 106,
+        "normal": 110,
+        "fog": 113,
+        "broken_sign": 109,
+        "shadow": 105,
+        "glare": 102,
+        "tilt": 89
+      },
+      "augmentation_date": "2025-09-30 11:33:36"
+    },
+    "111": {
+      "sequential_id": "111",
+      "class_name": "Slippery_Road",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 175,
+        "medium": 162,
+        "heavy": 153
+      },
+      "condition_stats": {
+        "shadow": 111,
+        "normal": 119,
+        "snow": 110,
+        "motion_blur": 102,
+        "glare": 110,
+        "occlusion": 117,
+        "rain": 127,
+        "tilt": 115,
+        "night_time": 95,
+        "fog": 116,
+        "broken_sign": 114
+      },
+      "augmentation_date": "2025-09-30 11:33:49"
+    },
+    "112": {
+      "sequential_id": "112",
+      "class_name": "Loose_Gravel",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 189,
+        "medium": 170,
+        "heavy": 131
+      },
+      "condition_stats": {
+        "tilt": 107,
+        "broken_sign": 110,
+        "motion_blur": 115,
+        "rain": 107,
+        "normal": 119,
+        "glare": 97,
+        "fog": 106,
+        "shadow": 110,
+        "occlusion": 113,
+        "snow": 110,
+        "night_time": 118
+      },
+      "augmentation_date": "2025-09-30 11:34:13"
+    },
+    "113": {
+      "sequential_id": "113",
+      "class_name": "Cycle_Crossing",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 158,
+        "medium": 161,
+        "heavy": 171
+      },
+      "condition_stats": {
+        "snow": 109,
+        "rain": 110,
+        "tilt": 100,
+        "night_time": 112,
+        "normal": 119,
+        "fog": 111,
+        "glare": 115,
+        "occlusion": 109,
+        "motion_blur": 114,
+        "shadow": 120,
+        "broken_sign": 103
+      },
+      "augmentation_date": "2025-09-30 11:34:26"
+    },
+    "114": {
+      "sequential_id": "114",
+      "class_name": "Pedestrian_Crossing",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 163,
+        "medium": 176,
+        "heavy": 151
+      },
+      "condition_stats": {
+        "fog": 117,
+        "tilt": 115,
+        "broken_sign": 113,
+        "occlusion": 110,
+        "snow": 106,
+        "shadow": 104,
+        "rain": 99,
+        "glare": 122,
+        "night_time": 123,
+        "normal": 118,
+        "motion_blur": 109
+      },
+      "augmentation_date": "2025-09-30 11:34:37"
+    },
+    "115": {
+      "sequential_id": "115",
+      "class_name": "School_Ahead",
+      "original_image_count": 9,
+      "augmented_image_count": 491,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 160,
+        "medium": 157,
+        "heavy": 174
+      },
+      "condition_stats": {
+        "tilt": 120,
+        "rain": 118,
+        "motion_blur": 99,
+        "occlusion": 112,
+        "normal": 110,
+        "broken_sign": 117,
+        "shadow": 109,
+        "night_time": 121,
+        "glare": 122,
+        "snow": 97,
+        "fog": 111
+      },
+      "augmentation_date": "2025-09-30 11:34:59"
+    },
+    "116": {
+      "sequential_id": "116",
+      "class_name": "Cattle",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 159,
+        "medium": 167,
+        "heavy": 164
+      },
+      "condition_stats": {
+        "rain": 119,
+        "tilt": 116,
+        "occlusion": 100,
+        "fog": 120,
+        "normal": 111,
+        "motion_blur": 119,
+        "night_time": 84,
+        "glare": 96,
+        "broken_sign": 122,
+        "shadow": 112,
+        "snow": 135
+      },
+      "augmentation_date": "2025-09-30 11:35:17"
+    },
+    "117": {
+      "sequential_id": "117",
+      "class_name": "Falling_Rocks",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 169,
+        "medium": 154,
+        "heavy": 167
+      },
+      "condition_stats": {
+        "normal": 108,
+        "motion_blur": 112,
+        "broken_sign": 111,
+        "snow": 117,
+        "fog": 96,
+        "occlusion": 110,
+        "tilt": 105,
+        "glare": 113,
+        "rain": 116,
+        "shadow": 105,
+        "night_time": 118
+      },
+      "augmentation_date": "2025-09-30 11:35:30"
+    },
+    "118": {
+      "sequential_id": "118",
+      "class_name": "Dangerous_Dip",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 159,
+        "medium": 184,
+        "heavy": 147
+      },
+      "condition_stats": {
+        "glare": 106,
+        "rain": 120,
+        "night_time": 110,
+        "occlusion": 116,
+        "fog": 111,
+        "normal": 114,
+        "tilt": 108,
+        "broken_sign": 114,
+        "shadow": 110,
+        "motion_blur": 108,
+        "snow": 108
+      },
+      "augmentation_date": "2025-09-30 11:35:44"
+    },
+    "119": {
+      "sequential_id": "119",
+      "class_name": "Hump_or_Rough_Road",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 179,
+        "medium": 163,
+        "heavy": 148
+      },
+      "condition_stats": {
+        "tilt": 114,
+        "motion_blur": 113,
+        "glare": 106,
+        "snow": 126,
+        "rain": 102,
+        "night_time": 97,
+        "shadow": 115,
+        "occlusion": 119,
+        "normal": 105,
+        "fog": 103,
+        "broken_sign": 117
+      },
+      "augmentation_date": "2025-09-30 11:35:55"
+    },
+    "120": {
+      "sequential_id": "120",
+      "class_name": "Barrier_Ahead",
+      "original_image_count": 9,
+      "augmented_image_count": 491,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 147,
+        "medium": 174,
+        "heavy": 170
+      },
+      "condition_stats": {
+        "motion_blur": 121,
+        "broken_sign": 130,
+        "glare": 118,
+        "normal": 105,
+        "tilt": 106,
+        "snow": 110,
+        "night_time": 123,
+        "occlusion": 100,
+        "fog": 95,
+        "shadow": 100,
+        "rain": 106
+      },
+      "augmentation_date": "2025-09-30 11:36:14"
+    },
+    "121": {
+      "sequential_id": "121",
+      "class_name": "Gap_in_Median",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 154,
+        "medium": 157,
+        "heavy": 179
+      },
+      "condition_stats": {
+        "rain": 120,
+        "fog": 117,
+        "tilt": 117,
+        "motion_blur": 101,
+        "normal": 104,
+        "night_time": 112,
+        "broken_sign": 108,
+        "occlusion": 127,
+        "shadow": 112,
+        "glare": 105,
+        "snow": 108
+      },
+      "augmentation_date": "2025-09-30 11:36:26"
+    },
+    "122": {
+      "sequential_id": "122",
+      "class_name": "Cross_Road",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 159,
+        "medium": 151,
+        "heavy": 180
+      },
+      "condition_stats": {
+        "shadow": 107,
+        "tilt": 121,
+        "glare": 104,
+        "normal": 120,
+        "motion_blur": 118,
+        "occlusion": 138,
+        "rain": 116,
+        "broken_sign": 114,
+        "night_time": 115,
+        "fog": 102,
+        "snow": 88
+      },
+      "augmentation_date": "2025-09-30 11:36:49"
+    },
+    "123": {
+      "sequential_id": "123",
+      "class_name": "Side_Road_Left",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 161,
+        "medium": 179,
+        "heavy": 150
+      },
+      "condition_stats": {
+        "snow": 93,
+        "rain": 99,
+        "tilt": 105,
+        "fog": 107,
+        "normal": 98,
+        "occlusion": 109,
+        "night_time": 115,
+        "broken_sign": 138,
+        "glare": 127,
+        "shadow": 108,
+        "motion_blur": 107
+      },
+      "augmentation_date": "2025-09-30 11:37:00"
+    },
+    "124": {
+      "sequential_id": "124",
+      "class_name": "Side_Road_Right",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 170,
+        "medium": 149,
+        "heavy": 171
+      },
+      "condition_stats": {
+        "broken_sign": 118,
+        "occlusion": 114,
+        "motion_blur": 106,
+        "snow": 113,
+        "shadow": 114,
+        "normal": 118,
+        "night_time": 93,
+        "fog": 115,
+        "rain": 112,
+        "glare": 113,
+        "tilt": 117
+      },
+      "augmentation_date": "2025-09-30 11:37:14"
+    },
+    "125": {
+      "sequential_id": "125",
+      "class_name": "Y_Intersection",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 152,
+        "medium": 164,
+        "heavy": 174
+      },
+      "condition_stats": {
+        "glare": 124,
+        "snow": 97,
+        "night_time": 113,
+        "motion_blur": 108,
+        "broken_sign": 112,
+        "rain": 106,
+        "occlusion": 119,
+        "fog": 124,
+        "normal": 98,
+        "tilt": 101,
+        "shadow": 120
+      },
+      "augmentation_date": "2025-09-30 11:37:30"
+    },
+    "126": {
+      "sequential_id": "126",
+      "class_name": "T_Intersection",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 185,
+        "medium": 159,
+        "heavy": 146
+      },
+      "condition_stats": {
+        "fog": 108,
+        "glare": 104,
+        "motion_blur": 109,
+        "shadow": 119,
+        "normal": 105,
+        "snow": 117,
+        "rain": 116,
+        "occlusion": 109,
+        "night_time": 107,
+        "tilt": 117,
+        "broken_sign": 108
+      },
+      "augmentation_date": "2025-09-30 11:37:42"
+    },
+    "127": {
+      "sequential_id": "127",
+      "class_name": "Staggered_Intersection",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 177,
+        "medium": 156,
+        "heavy": 157
+      },
+      "condition_stats": {
+        "snow": 114,
+        "occlusion": 131,
+        "glare": 99,
+        "motion_blur": 125,
+        "night_time": 107,
+        "broken_sign": 120,
+        "shadow": 95,
+        "fog": 110,
+        "tilt": 121,
+        "normal": 101,
+        "rain": 111
+      },
+      "augmentation_date": "2025-09-30 11:37:55"
+    },
+    "128": {
+      "sequential_id": "128",
+      "class_name": "Round_About",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 149,
+        "medium": 157,
+        "heavy": 184
+      },
+      "condition_stats": {
+        "rain": 99,
+        "fog": 115,
+        "night_time": 112,
+        "shadow": 123,
+        "broken_sign": 114,
+        "normal": 112,
+        "snow": 103,
+        "glare": 106,
+        "occlusion": 119,
+        "motion_blur": 110,
+        "tilt": 103
+      },
+      "augmentation_date": "2025-09-30 11:38:10"
+    },
+    "129": {
+      "sequential_id": "129",
+      "class_name": "Guarded_Level_Crossing",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 169,
+        "medium": 150,
+        "heavy": 171
+      },
+      "condition_stats": {
+        "snow": 112,
+        "shadow": 120,
+        "tilt": 113,
+        "glare": 99,
+        "occlusion": 127,
+        "night_time": 111,
+        "fog": 111,
+        "rain": 123,
+        "motion_blur": 109,
+        "normal": 118,
+        "broken_sign": 110
+      },
+      "augmentation_date": "2025-09-30 11:38:25"
+    },
+    "130": {
+      "sequential_id": "130",
+      "class_name": "Unguarded_Level_Crossing",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 161,
+        "medium": 161,
+        "heavy": 168
+      },
+      "condition_stats": {
+        "tilt": 110,
+        "occlusion": 115,
+        "night_time": 106,
+        "motion_blur": 94,
+        "fog": 113,
+        "shadow": 110,
+        "rain": 114,
+        "normal": 115,
+        "glare": 113,
+        "snow": 118,
+        "broken_sign": 108
+      },
+      "augmentation_date": "2025-09-30 11:38:42"
+    },
+    "131": {
+      "sequential_id": "131",
+      "class_name": "Men_at_Work",
+      "original_image_count": 9,
+      "augmented_image_count": 491,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 148,
+        "medium": 176,
+        "heavy": 167
+      },
+      "condition_stats": {
+        "night_time": 119,
+        "broken_sign": 119,
+        "occlusion": 104,
+        "snow": 114,
+        "glare": 111,
+        "motion_blur": 116,
+        "shadow": 101,
+        "rain": 103,
+        "fog": 97,
+        "tilt": 116,
+        "normal": 114
+      },
+      "augmentation_date": "2025-09-30 11:39:06"
+    },
+    "132": {
+      "sequential_id": "132",
+      "class_name": "U_Turn_Ahead",
+      "original_image_count": 9,
+      "augmented_image_count": 491,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 158,
+        "medium": 160,
+        "heavy": 173
+      },
+      "condition_stats": {
+        "glare": 113,
+        "tilt": 123,
+        "shadow": 105,
+        "fog": 108,
+        "broken_sign": 115,
+        "rain": 126,
+        "snow": 85,
+        "normal": 112,
+        "motion_blur": 117,
+        "occlusion": 128,
+        "night_time": 93
+      },
+      "augmentation_date": "2025-09-30 11:39:24"
+    },
+    "133": {
+      "sequential_id": "133",
+      "class_name": "Merge_Traffic_Ahead",
+      "original_image_count": 10,
+      "augmented_image_count": 490,
+      "total_image_count": 500,
+      "severity_stats": {
+        "light": 170,
+        "medium": 140,
+        "heavy": 180
+      },
+      "condition_stats": {
+        "night_time": 101,
+        "normal": 102,
+        "broken_sign": 111,
+        "shadow": 114,
+        "snow": 106,
+        "glare": 115,
+        "motion_blur": 118,
+        "occlusion": 104,
+        "rain": 114,
+        "fog": 117,
+        "tilt": 117
+      },
+      "augmentation_date": "2025-09-30 11:39:37"
+    }
+  },
+  "stats": {
+    "total_original_images": 604,
+    "total_augmented_images": 29396,
+    "total_images_after_augmentation": 30000,
+    "severity_stats": {
+      "light": 29873,
+      "medium": 29773,
+      "heavy": 29770
+    },
+    "condition_stats": {
+      "rain": 20391,
+      "shadow": 20274,
+      "night_time": 20277,
+      "motion_blur": 20337,
+      "glare": 20341,
+      "tilt": 20174,
+      "snow": 20221,
+      "occlusion": 20408,
+      "normal": 20331,
+      "fog": 20100,
+      "broken_sign": 20481
+    }
+  }
+}
