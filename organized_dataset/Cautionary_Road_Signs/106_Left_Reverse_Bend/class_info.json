@@ -1,0 +1,11 @@
+{
+  "sequential_id": "106",
+  "original_id": "106",
+  "class_name": "Left_Reverse_Bend",
+  "category": "Cautionary",
+  "image_count": 15,
+  "target_total_images": 500,
+  "augmentation_needed": 485,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}

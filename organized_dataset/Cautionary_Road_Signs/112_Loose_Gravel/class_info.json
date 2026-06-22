@@ -1,0 +1,11 @@
+{
+  "sequential_id": "112",
+  "original_id": "113",
+  "class_name": "Loose_Gravel",
+  "category": "Cautionary",
+  "image_count": 10,
+  "target_total_images": 500,
+  "augmentation_needed": 490,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}

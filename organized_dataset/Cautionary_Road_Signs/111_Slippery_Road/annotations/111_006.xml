@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>111_006.jpg</filename>
+	<path>/Users/jvarghese/Documents/TrafficSignProject/organized_dataset/Cautionary_Road_Signs/111_Slippery_Road/images/111_006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Slippery_Road</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>55</ymin>
+			<xmax>291</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

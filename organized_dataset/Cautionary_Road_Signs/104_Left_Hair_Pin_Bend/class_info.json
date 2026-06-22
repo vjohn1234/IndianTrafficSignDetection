@@ -1,0 +1,11 @@
+{
+  "sequential_id": "104",
+  "original_id": "104",
+  "class_name": "Left_Hair_Pin_Bend",
+  "category": "Cautionary",
+  "image_count": 15,
+  "target_total_images": 500,
+  "augmentation_needed": 485,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}

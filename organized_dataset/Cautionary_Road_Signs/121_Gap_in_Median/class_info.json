@@ -1,0 +1,11 @@
+{
+  "sequential_id": "121",
+  "original_id": "124",
+  "class_name": "Gap_in_Median",
+  "category": "Cautionary",
+  "image_count": 10,
+  "target_total_images": 500,
+  "augmentation_needed": 490,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}

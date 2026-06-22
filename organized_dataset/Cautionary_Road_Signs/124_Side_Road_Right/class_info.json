@@ -1,0 +1,11 @@
+{
+  "sequential_id": "124",
+  "original_id": "127",
+  "class_name": "Side_Road_Right",
+  "category": "Cautionary",
+  "image_count": 10,
+  "target_total_images": 500,
+  "augmentation_needed": 490,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}

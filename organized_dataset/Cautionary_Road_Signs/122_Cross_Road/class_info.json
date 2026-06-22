@@ -1,0 +1,11 @@
+{
+  "sequential_id": "122",
+  "original_id": "125",
+  "class_name": "Cross_Road",
+  "category": "Cautionary",
+  "image_count": 10,
+  "target_total_images": 500,
+  "augmentation_needed": 490,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}

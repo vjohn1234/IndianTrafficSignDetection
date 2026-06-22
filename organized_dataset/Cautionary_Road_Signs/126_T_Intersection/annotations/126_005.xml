@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>126_005.jpg</filename>
+	<path>/Users/jvarghese/Documents/TrafficSignProject/organized_dataset/Cautionary_Road_Signs/126_T_Intersection/images/126_005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>T_Intersection</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>236</ymin>
+			<xmax>151</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

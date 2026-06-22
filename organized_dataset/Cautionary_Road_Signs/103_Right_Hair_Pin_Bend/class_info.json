@@ -1,0 +1,11 @@
+{
+  "sequential_id": "103",
+  "original_id": "103",
+  "class_name": "Right_Hair_Pin_Bend",
+  "category": "Cautionary",
+  "image_count": 13,
+  "target_total_images": 500,
+  "augmentation_needed": 487,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}

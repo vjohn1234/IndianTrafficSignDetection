@@ -1,0 +1,11 @@
+{
+  "sequential_id": "118",
+  "original_id": "121",
+  "class_name": "Dangerous_Dip",
+  "category": "Cautionary",
+  "image_count": 10,
+  "target_total_images": 500,
+  "augmentation_needed": 490,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}

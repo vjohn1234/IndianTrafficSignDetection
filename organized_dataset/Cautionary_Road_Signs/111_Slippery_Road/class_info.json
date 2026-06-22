@@ -1,0 +1,11 @@
+{
+  "sequential_id": "111",
+  "original_id": "112",
+  "class_name": "Slippery_Road",
+  "category": "Cautionary",
+  "image_count": 10,
+  "target_total_images": 500,
+  "augmentation_needed": 490,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}

@@ -1,0 +1,11 @@
+{
+  "sequential_id": "132",
+  "original_id": "136",
+  "class_name": "U_Turn_Ahead",
+  "category": "Cautionary",
+  "image_count": 9,
+  "target_total_images": 500,
+  "augmentation_needed": 491,
+  "labeling_status": "not_started",
+  "augmentation_status": "not_started"
+}
