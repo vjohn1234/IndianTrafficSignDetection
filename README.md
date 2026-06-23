@@ -56,9 +56,16 @@ V6 exported to TFLite via Edge Impulse, evaluated on 3,914 test images at 640×6
 │   ├── Step13–14       # V4 teacher training & testing
 │   ├── Step15–16       # V5 single-step distillation & testing
 │   ├── Step17_Step1–4  # V6 progressive distillation (4 steps)
-│   └── Step18          # TFLite/ONNX export
-├── DataSet/            # Image dataset
-└── MiscallenousCode/   # Utility scripts
+│   ├── Step18          # TFLite/ONNX export
+│   └── analysis/       # Dataset analysis artifacts
+├── model/
+│   ├── pre-trained-models/    # YOLOv12x/l/m/s/n weights
+│   └── v6-stage3-best-model/  # V6 exports (PyTorch, TFLite, ONNX)
+├── organized_dataset/         # Class-organized images & annotations
+├── OriginalDataSet/           # 604 base IRC-compliant sign images
+└── yolo_dataset/
+    ├── dataset.yaml
+    └── images/{train,val,test}/
 ```
 
 ## Requirements
@@ -66,6 +73,7 @@ V6 exported to TFLite via Edge Impulse, evaluated on 3,914 test images at 640×6
 - Python 3.9+
 - PyTorch 2.9+
 - [Ultralytics](https://github.com/ultralytics/ultralytics) (YOLOv12)
+- [Git LFS](https://git-lfs.github.com/) (for model artifacts)
 - Google Colab Pro with NVIDIA A100 (for training)
 
 ## Authors
